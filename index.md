@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/Oliver-BE/Oliver-BE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Amherst College
+2017-2021
+- **Majors:** Bachelor of Arts in Computer Science and Statistic GPA (3.73/4.00)
+- **Relevant Coursework:** Algorithms, Data Structures, Artificial Intelligence, Evolutionary Computation, Data Science, Probability, Theoretical Stats, Nonparametric Stats, Intermediate Stats 
+- **Technical Skills:** Proficient in: Python, Java, R, Photoshop; Experience with: JavaScript (D3.js), Clojure, HTML, CSS, SQL 
+- **Awards:** _Mu Sigma Rho:_ National honor society for statistics recognizing outstanding achievement  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
