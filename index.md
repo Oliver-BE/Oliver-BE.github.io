@@ -2,35 +2,12 @@
 
 ### Amherst College
 2017-2021
-- **Majors:** Bachelor of Arts in Computer Science and Statistic GPA (3.73/4.00)
+- **Majors:** Bachelor of Arts in Computer Science and Statistic GPA 
 - **Relevant Coursework:** Algorithms, Data Structures, Artificial Intelligence, Evolutionary Computation, Data Science, Probability, Theoretical Stats, Nonparametric Stats, Intermediate Stats 
 - **Technical Skills:** Proficient in: Python, Java, R, Photoshop; Experience with: JavaScript (D3.js), Clojure, HTML, CSS, SQL 
 - **Awards:** _Mu Sigma Rho:_ National honor society for statistics recognizing outstanding achievement  
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### ADD PROJECTS HERE
 
 ### Jekyll Themes
 
