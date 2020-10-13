@@ -1,18 +1,35 @@
-## Education
+## Portfolio
 
-### Amherst College
-2017-2021
-- **Majors:** Bachelor of Arts in Computer Science and Statistic  
-- **Relevant Coursework:** Algorithms, Data Structures, Artificial Intelligence, Evolutionary Computation, Data Science, Probability, Theoretical Stats, Nonparametric Stats, Intermediate Stats 
-- **Technical Skills:** Proficient in: Python, Java, R, Photoshop; Experience with: JavaScript (D3.js), Clojure, HTML, CSS, SQL 
-- **Awards:** _Mu Sigma Rho:_ National honor society for statistics recognizing outstanding achievement  
+---
 
-### ADD PROJECTS HERE
+### Category Name 1 
 
-### Jekyll Themes
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oliver-BE/Oliver-BE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Support or Contact
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+### Category Name 2
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
