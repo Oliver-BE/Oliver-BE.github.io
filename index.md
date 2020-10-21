@@ -1,33 +1,44 @@
-## Portfolio
+# Portfolio
 
----
+
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ring-of-fire.png?raw=true" width="20%" align="right"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**[Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)**
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A **parallelized genetic program** for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in **Clojure** by [@icaruso21](https://github.com/icaruso21), [@MGlusker](https://github.com/MGlusker), and myself.
+
+<img src="images/fire-scar-comparison.png"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Pacman AI projects](/pdf/sample_presentation.pdf)
 
 ---
 
+**[Intellage: An Intelligent Photo Collage Creator](https://github.com/icaruso21/intellage)**
+
+Written entirely from scratch in **Java** by [@icaruso21](https://github.com/icaruso21) and myself, `Intellage` recreates a desired photo from a user-specified collection of `.jpg` images. The following outputs from `Intellage` each utilized an input folder containing 26,000 stock images:
+
+<img src="images/intellage-sample.png?raw=true"/>
 
 
+<br>
+<br>
+
+### Data Visualizations 
+
+[Covid d3](http://example.com/)
+
+---
+
+[interactive graph creator](http://example.com/)
 
 --- 
+
+[sorting algorithm visualizer using empirical](http://example.com/)
+
+
