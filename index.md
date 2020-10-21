@@ -32,17 +32,32 @@ Written entirely from scratch in **Java** by [@icaruso21](https://github.com/ica
 
 ### Data Visualizations 
 
-[COVID-19 Visualization](https://github.com/Oliver-BE/covid-d3) <a href="https://oliver-be.ml/covid-d3/" target="_blank" style="color: inherit;">Link to the website</a>
+[COVID-19 Visualization](https://oliver-be.ml/covid-d3/) 
 
-An interactive visualization of COVID-19 data obtained from the New York Times built from scratch using [D3](D3js.org).
+An interactive visualization of COVID-19 data obtained from the New York Times built from scratch using [D3](https://D3js.org).
 
 
 ---
 
-[interactive graph creator](http://example.com/)
+[interactive graph creator](https://oliver-be.ml/interactive-directed-graph-creator/)
 
 --- 
 
-[sorting algorithm visualizer using empirical](http://example.com/)
+[sorting algorithm visualizer using empirical](https://oliver-be.ml/sorting-algorithms-d3/)
+
+---
+
+### Smaller assorted projects
+
+[Connect Four](https://oliver-be.ml/connect-four/)
+
+A JS/CSS/HTML implementation of Connect Four written from scratch as a way to help teach myself web development.
+
+---
+
+[Amherst history shiny app](https://r.amherst.edu/apps/obaldwinedwards21/AmherstHistory/)
+
+A Shiny app created to supplement a mini-project 
+
 
 
