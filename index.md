@@ -1,9 +1,9 @@
 ## Portfolio
 
----
+Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page or website (when applicable).
 
-### Category Name 1 
 
+### Technical Projects
 <img src="images/ring-of-fire.png?raw=true" width="20%" align="right"/>
 
 ---
@@ -15,7 +15,7 @@ A **parallelized genetic program** for evolving rules that describe a cellular a
 
 ---
 
-#### [Pacman AI projects](/pdf/sample_presentation.pdf)
+#### [Pacman AI projects]()
 
 ---
 
@@ -32,36 +32,55 @@ Written entirely from scratch in **Java** by [@icaruso21](https://github.com/ica
 
 ### Data Visualizations 
 
+
+#### [Visualizing Sorting Algorithms using Empirical](https://oliver-be.ml/sorting-algorithms-d3/)
+
+A web app written entirely in **C++** that utilizes the Empirical D3-wrapper that I helped to write as a 2020 [WAVES](https://mmore500.com/waves/index.html) participant. This project is meant to serve as a demo for how the new D3-wrapper can be used with [Empirical](https://github.com/devosoft/Empirical) to create powerful web apps.
+
+Along with [@elizabethcarney](https://github.com/elizabethcarney), [@amlalejini](https://github.com/amlalejini), and [@emilydolson](https://github.com/emilydolson) I spent the summer creating a C++ wrapper for **[D3.js](https://D3js.org)**, a JavaScript library that allows for custom-made, interactive visualizations. We began the process of overhauling Empirical's web visualization support for use in the next version of [Avida-ED](https://avida-ed.msu.edu/).
+
+**For more information on what I did, see [this blog post I wrote.](https://mmore500.com/waves/blog/d3-sorting.html)**
+
+<img src="images/d3-sorting.png"/>
+
+---
+
 #### [Interactive Directed Graph Creator](https://oliver-be.ml/interactive-directed-graph-creator/)
 
 A fully interactive web app for creating directed graphs using **D3**'s force layout. This was built as a prototype for a [state chart](https://www.tutorialspoint.com/uml/uml_statechart_diagram.html) as part of the work I did as a research assistant for the [Tulane Visualization and Graphics Group](https://tulanevisgraphics.bitbucket.io/).
 
 <img src="images/directed-graph.png?raw=true"/>
 
---- 
-
-#### [sorting algorithm visualizer using empirical](https://oliver-be.ml/sorting-algorithms-d3/)
 
 ---
 
 #### [COVID-19 Visualization](https://oliver-be.ml/covid-d3/) 
 
-An interactive visualization of COVID-19 data obtained from the New York Times built from scratch using **[D3](https://D3js.org)**.
+An interactive visualization of COVID-19 data obtained from the New York Times built from scratch using **D3**.
 
 
 ---
 
-### Smaller assorted projects
+### Smaller Assorted Projects
+
+
+#### [Textual Analysis Shiny App](https://r.amherst.edu/apps/obaldwinedwards21/AmherstHistory/)
+
+A Shiny app created to supplement and visualize textual analysis of the book *History of Amherst College during the First Half Century*.
+
+
+<img src="images/amherst-shiny.png"/>
+
+---
 
 #### [Connect Four](https://oliver-be.ml/connect-four/)
 
 A JS/CSS/HTML implementation of Connect Four written from scratch as a way to help teach myself web development.
 
----
+<img src="images/connect-four.png"/>
 
-#### [Amherst history shiny app](https://r.amherst.edu/apps/obaldwinedwards21/AmherstHistory/)
 
-A Shiny app created to supplement a mini-project 
+
 
 
 
