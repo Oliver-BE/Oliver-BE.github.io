@@ -1,7 +1,6 @@
-## Oliver Baldwin Edwards Personal Site
+## My Personal Portfolio Site
 
-### Placeholder
-lorem ipsum 
+This is a GitHub pages site to show off some projects that I've worked on in the past. View my website at https://oliver-be.ml
 ___
 
 ### References
