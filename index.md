@@ -15,7 +15,16 @@ A **parallelized genetic program** for evolving rules that describe a cellular a
 
 ---
 
-#### [Pacman AI projects]()
+#### Various Pacman AI Projects
+
+Using **Python** I implemented various AI algorithms in a Pacman setting including:
+- Exact inference and particle filtering to read noisy data using Bayes' Nets
+- Reinforcement learning algorithms such as Temporal Difference Q-learning
+- DFS, BFS, UCS, and A* to find food pellets
+
+I also created a team of agents to play a capture the flag version of Python. I used particle filtering to estimate the position of enemy Pacman agents, a minimax algorithm with alpha-beta pruning to select my agents' next move, and different evaluation functions for offensive/defensive moves. 
+
+
 
 ---
 
@@ -26,9 +35,15 @@ Written entirely from scratch in **Java** by [@icaruso21](https://github.com/ica
 <img src="images/intellage-sample.png?raw=true"/>
 
 
-<br>
+---
+
+#### Predicting GDP based on transit data
+photo of shiny app description of models and data wrangling
+
 
 ---
+
+<br>
 
 ### Data Visualizations 
 
@@ -39,7 +54,7 @@ A web app written entirely in **C++** that utilizes the Empirical D3-wrapper tha
 
 Along with [@elizabethcarney](https://github.com/elizabethcarney), [@amlalejini](https://github.com/amlalejini), and [@emilydolson](https://github.com/emilydolson) I spent the summer creating a C++ wrapper for **[D3.js](https://D3js.org)**, a JavaScript library that allows for custom-made, interactive visualizations. We began the process of overhauling Empirical's web visualization support for use in the next version of [Avida-ED](https://avida-ed.msu.edu/).
 
-**For more information on what I did, see [this blog post I wrote.](https://mmore500.com/waves/blog/d3-sorting.html)**
+For more information on what I did, see [this blog post I wrote.](https://mmore500.com/waves/blog/d3-sorting.html)
 
 <img src="images/d3-sorting.png"/>
 
@@ -61,8 +76,11 @@ An interactive visualization of COVID-19 data obtained from the New York Times b
 
 ---
 
+<br>
+
 ### Smaller Assorted Projects
 
+---
 
 #### [Textual Analysis Shiny App](https://r.amherst.edu/apps/obaldwinedwards21/AmherstHistory/)
 
@@ -73,14 +91,14 @@ A Shiny app created to supplement and visualize textual analysis of the book *Hi
 
 ---
 
+#### [Predicting Hurricane Deaths](/pdf/hurricane-deaths.pdf)
+
+A project that focused on predicting the number of deaths caused by named US hurricanes using a Generalized Additive Model (GAM).
+
+---
+
 #### [Connect Four](https://oliver-be.ml/connect-four/)
 
-A JS/CSS/HTML implementation of Connect Four written from scratch as a way to help teach myself web development.
+A **JS/CSS/HTML** implementation of Connect Four written from scratch as a way to help teach myself web development.
 
 <img src="images/connect-four.png"/>
-
-
-
-
-
-
