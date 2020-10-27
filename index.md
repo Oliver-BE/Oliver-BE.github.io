@@ -47,6 +47,7 @@ photo of shiny app description of models and data wrangling
 
 ### Data Visualizations 
 
+---
 
 #### [Visualizing Sorting Algorithms using Empirical](https://oliver-be.ml/sorting-algorithms-d3/)
 
