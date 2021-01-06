@@ -1,20 +1,9 @@
-## Portfolio
+# Oliver's Portfolio
 
 Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page or website (when applicable).
 
 
 ### Technical Projects
-
----
-
-#### [Classifying Fake News Using Natural Language Processing and Machine Learning](/pdf/fake-news-nlp.pdf)
-
-A formal report written in **R** that uses **Natural Language Processing** and **Machine Learning** to classify news claims as either true or false. 
-
-This project used a dataset of **1911** unique [PolitiFact](https://www.politifact.com/) claims and their associated truth ratings. Features were extracted from each claim using a [bag-of-n-grams model](https://machinelearning.wtf/terms/bag-of-n-grams/) with [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) as the scoring metric (the vocabulary size was first reduced using using lemmatization and stop word removal among other text cleaning procedures). 
-
-Seven machine learning classification models (including **random forest**, **multilayer perceptron**, and **recurrent neural network**) were fit and a maximum classification accuracy of **71%** was achieved.
-
 
 
 <img src="images/ring-of-fire.png?raw=true" width="20%" align="right"/>
@@ -25,6 +14,17 @@ Seven machine learning classification models (including **random forest**, **mul
 A parallelized **Genetic Program** for evolving rules that describe a cellular automaton based wildfire simulation. Both the genetic program and the wildfire simulator were written in **Clojure** by [@icaruso21](https://github.com/icaruso21), [@MGlusker](https://github.com/MGlusker), and myself.
 
 <img src="images/fire-scar-comparison.png"/>
+
+---
+
+#### [Classifying Fake News Using Natural Language Processing and Machine Learning](/pdf/fake-news-nlp.pdf)
+
+A formal report written in **R** that uses **Natural Language Processing** and **Machine Learning** to classify news claims as either true or false. 
+
+This project used a dataset of **1,911** unique [PolitiFact](https://www.politifact.com/) claims and their associated truth ratings. Features were extracted from each claim using a [bag-of-n-grams model](https://machinelearning.wtf/terms/bag-of-n-grams/) with [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) as the scoring metric (the vocabulary size was first reduced using using lemmatization and stop word removal among other text cleaning procedures). 
+
+Seven machine learning classification models (including **random forest**, **multilayer perceptron**, and **recurrent neural network**) were fit and a maximum classification accuracy of **71%** was achieved.
+
 
 ---
 
@@ -43,12 +43,12 @@ I also created a team of agents to play a capture the flag version of Python. I 
 
 #### [Intellage: An Intelligent Photo Collage Creator](https://github.com/Oliver-BE/intellage)
 
-Written entirely from scratch in **Java** by [@icaruso21](https://github.com/icaruso21) and myself, `Intellage` recreates a desired photo from a user-specified collection of `.jpg` images. The following outputs from `Intellage` each utilized an input folder containing 26,000 stock images:
+Written entirely from scratch in **Java** by [@icaruso21](https://github.com/icaruso21) and myself, `Intellage` recreates a desired photo from a user-specified collection of `.jpg` images. The following outputs from `Intellage` each utilized an input folder containing **26,000** stock images:
 
 <img src="images/intellage-sample.png?raw=true"/>
 
 
----
+
 
 <br>
 
@@ -82,7 +82,7 @@ A fully interactive web app for creating directed graphs using **D3**'s force la
 An interactive visualization of COVID-19 data obtained from the New York Times built from scratch using **D3**. Note that this is still a work in progress and is very rough and buggy!
 
 
----
+
 
 <br>
 
