@@ -1,6 +1,6 @@
 # Oliver's Portfolio
 
-Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page or website (when applicable).
+Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page, website, or report `pdf` (when applicable).
 
 
 ### Technical Projects
