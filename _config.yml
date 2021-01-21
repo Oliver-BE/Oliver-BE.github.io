@@ -7,6 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm especially interested in  <strong>interactive data visualizations</strong> and  <strong>evolutionary computation</strong>.
   Outside of that, I enjoy photography, playing the piano, and rock climbing.
   <hr> 
+
+  <a href="www.linkedin.com/in/oliver-baldwin-edwards">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-180546121-1 # your Google Analytics tracking ID here
