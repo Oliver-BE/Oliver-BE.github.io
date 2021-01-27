@@ -45,7 +45,7 @@ Using **Python**, [@MGlusker](https://github.com/MGlusker) and I implemented var
 
 We also created a team of agents to play a capture the flag version of Python. We used **particle filtering** to estimate the position of enemy Pacman agents, a **minimax algorithm** with **alpha-beta pruning** to select our agents' next move, and different evaluation functions for offensive/defensive moves. 
 
----
+<br>
 
 ## Data Visualizations 
 
@@ -73,7 +73,7 @@ For more information on what I did, see **[this blog post I wrote.](https://mmor
 
 An interactive visualization of COVID-19 data obtained from the [New York Times](https://github.com/nytimes/covid-19-data) built from scratch using **D3.js**. Note that this is still a work in progress and is very rough and buggy!
 
----
+<br>
  
 ## Smaller Assorted Projects
 
@@ -115,7 +115,7 @@ A **JS/CSS/HTML** implementation of Connect Four written from scratch as a way t
 
 <img src="images/connect-four.png"/>
 
----
+<br>
  
 ## Technical Skills 
 
