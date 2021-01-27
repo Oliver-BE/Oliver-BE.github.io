@@ -1,13 +1,10 @@
 # Oliver's Portfolio
 
-Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page, website, or  `pdf` (when applicable).
-
+> Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page, website, or  `pdf` (when applicable).
 
 ## Technical Projects
 
-
 <img src="images/ring-of-fire.png?raw=true" width="20%" align="right"/>
-
 
 #### [Ring of Fire: Evolving a Wildfire Simulator using Genetic Programming](https://github.com/Oliver-BE/ring-of-fire)
 
