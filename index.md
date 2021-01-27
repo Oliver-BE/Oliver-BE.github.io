@@ -22,6 +22,8 @@ This project used a dataset of **1,911** unique [PolitiFact](https://www.politif
 
 Seven machine learning classification models (including **a random forest**, **a multilayer perceptron**, and **a recurrent neural network**) were fit and a maximum classification accuracy of **71%** was achieved.
 
+<img src="images/fake-news.png"/>
+
 ---
 
 #### [Intellage: An Intelligent Photo Collage Creator](https://github.com/Oliver-BE/intellage)
