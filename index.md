@@ -50,9 +50,6 @@ We also created a team of agents to play a capture the flag version of Python. W
 
 ---
 
-
-<br>
-
 ## Data Visualizations 
 
 #### [Interactive Directed Graph Creator](https://oliver-be.ml/interactive-directed-graph-creator/)
@@ -80,9 +77,7 @@ For more information on what I did, see **[this blog post I wrote.](https://mmor
 An interactive visualization of COVID-19 data obtained from the [New York Times](https://github.com/nytimes/covid-19-data) built from scratch using **D3.js**. Note that this is still a work in progress and is very rough and buggy!
 
 ---
-
-<br>
-
+ 
 ## Smaller Assorted Projects
 
 #### [Public Transit in US Cities](https://github.com/Oliver-BE/transit-gdp-project)
@@ -124,9 +119,7 @@ A **JS/CSS/HTML** implementation of Connect Four written from scratch as a way t
 <img src="images/connect-four.png"/>
 
 ---
-
-<br>
-
+ 
 ## Technical Skills 
 
 Proficient in:
