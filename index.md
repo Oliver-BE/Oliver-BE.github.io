@@ -1,6 +1,6 @@
 # Oliver's Portfolio
 
-> Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page, website, or  `pdf` (when applicable).
+Welcome to my portfolio! Click the name of a project to see its corresponding GitHub page, website, or  `pdf` (when applicable).
 
 ## Technical Projects
 
@@ -21,8 +21,6 @@ A formal report written in **R** that uses **Natural Language Processing** and *
 This project used a dataset of **1,911** unique [PolitiFact](https://www.politifact.com/) claims and their associated truth ratings. Features were extracted from each claim using a [bag-of-n-grams model](https://machinelearning.wtf/terms/bag-of-n-grams/) with [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) as the scoring metric (the vocabulary size was first reduced using using lemmatization and stop word removal among other text cleaning procedures). 
 
 Seven machine learning classification models (including **a random forest**, **a multilayer perceptron**, and **a recurrent neural network**) were fit and a maximum classification accuracy of **71%** was achieved.
-
-<img src="images/fake-news.png"/>
 
 ---
 
