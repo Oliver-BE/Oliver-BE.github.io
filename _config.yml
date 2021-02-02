@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I’m originally from Evanston, Illinois but recently moved to New Orleans.
   I'm especially interested in  <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>Evolutionary Computation</strong>.
   Outside of that, I enjoy photography, playing the piano, and rock climbing.
-
+  <br>
   <a target="_blank" href="https://linkedin.com/in/oliver-baldwin-edwards">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
