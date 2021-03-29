@@ -14,7 +14,7 @@ A parallelized **Genetic Program** for evolving rules to describe a cellular aut
 
 ---
 
-#### Classifying Fake News Using NLP and ML [PDF](/pdf/fake-news-nlp.pdf) | [Website](https://oliver-be.ml/fake-news-nlp/)
+#### Classifying Fake News Using NLP and ML [Website](https://oliver-be.ml/fake-news-nlp/) | [PDF](/pdf/fake-news-nlp.pdf) 
 
 A formal report written in **R** that uses **Natural Language Processing** and **Machine Learning** to classify news claims as either true or false. 
 
