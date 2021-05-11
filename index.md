@@ -71,7 +71,7 @@ For more information on what I did, see **[this blog post I wrote.](https://mmor
 
 #### [Apex Dashboard](https://apexdashboard.ml/)
 
-An interactive **R Shiny** app to keep track of and visualize statistics from the popular video game [Apex Legends](https://www.ea.com/games/apex-legends). A player inputs their stats from a game into a Google Form which then (in-real time) updates the dashboard. The dashboard is hosted on **AWS** with **Docker**.
+An interactive **R Shiny** app to keep track of and visualize statistics from the popular video game [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends). A player inputs their stats from a game into a Google Form which then (in-real time) updates the dashboard. The dashboard is hosted on **AWS** with **Docker**.
 
 <img src="images/apex-dashboard-2.png"/>
 
