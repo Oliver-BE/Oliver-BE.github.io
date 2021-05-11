@@ -69,6 +69,14 @@ For more information on what I did, see **[this blog post I wrote.](https://mmor
 
 ---
 
+#### [Apex Dashboard](https://apexdashboard.ml/)
+
+An interactive **R Shiny** app to keep track of and visualize statistics from the popular video game [Apex Legends](https://www.ea.com/games/apex-legends). A player inputs their stats from a game into a Google Form which then (in-real time) updates the dashboard. The dashboard is hosted on **AWS** with **Docker**.
+
+<img src="images/apex-dashboard-2.png"/>
+
+---
+
 #### [COVID-19 D3 Visualization](https://oliver-be.ml/covid-d3/) 
 
 An interactive visualization of COVID-19 data obtained from the [New York Times](https://github.com/nytimes/covid-19-data) built from scratch using **D3.js**. Note that this is still a work in progress and is very rough and buggy!
@@ -108,6 +116,16 @@ Project](https://covidtracking.com/race/about#download-the-data).
 > *An example visualization I created using the data in this package.*
 
 ---
+
+#### [Artificial Intelligence in the Liberal Arts Initiative Website](https://liberal-arts.ai/)
+
+A static website I created using **Jekyll** for the AILA initiative at **Amherst College**. I adapted an existing **Jekyll** template to the needs of the initiative and dealt with all aspects of the site from designing posters to creating custom layouts for events. 
+
+<img src="images/aila-website-2.png">
+<img src="images/aila-website.png">
+
+
+----
 
 #### [Connect Four](https://oliver-be.ml/connect-four/)
 

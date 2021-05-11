@@ -6,6 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Open Graph meta tags for social media sharing-->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="images/circle-cropped.png">
+  <meta property="og:url" content="{{ site.url }}">
+
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="images/favicon_io/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_io/favicon-32x32.png">
@@ -40,7 +46,7 @@
       <img src="{{site.logo | relative_url}}" alt="Logo" />
       {% endif %}
 
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <p>{{ site.bio | default: site.github.project_tagline }}</p>
 
       {% if site.github.is_project_page %}
       <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub
