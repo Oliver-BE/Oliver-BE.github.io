@@ -122,7 +122,7 @@ Project](https://covidtracking.com/race/about#download-the-data).
 A static website I created using **Jekyll** for the AILA initiative at **Amherst College**. I adapted an existing **Jekyll** template to the needs of the initiative and dealt with all aspects of the site from designing posters to creating custom layouts for events. 
 
 <img src="images/aila-website-2.png">
-<img src="images/aila-website.png">
+<img src="images/aila-website-3.png">
 
 
 ----
